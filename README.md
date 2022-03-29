@@ -1,7 +1,6 @@
 ### Olá!! Eu sou o Thomas Rempel
 
 
-- 🔭 Estou em busca de um estágio
 - 🌱 Atualmente estudo ciência da computação na PUCPR
 
 <div>
