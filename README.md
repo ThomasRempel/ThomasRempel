@@ -2,6 +2,7 @@
 
 
 - 🌱 Atualmente estudo ciência da computação na PUCPR
+- :man_technologist: Trabalho com suporte na Historymakers
 
 <div>
   <a href="https://github.com/ThomasRempel">
