@@ -2,7 +2,7 @@
 
 
 - 🌱 Atualmente estudo ciência da computação na PUCPR
-- :man_technologist: Trabalho com suporte na Historymakers
+- :man_technologist: Trabalho com Infra e Segurança na Furukawa Eletric
 
 <div>
   <a href="https://github.com/ThomasRempel">
